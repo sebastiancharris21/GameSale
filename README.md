@@ -1,5 +1,5 @@
 # REACT + TypeScript + ReactQuery = GameSale
-  ![image alt]()
+  ![image alt](https://github.com/sebastiancharris21/GameSale/blob/1df0f9ad1527c9618705c45cbe8f94bfd25e0077/gameSale_juegos.PNG)
 
 ## Acerca del proyecto:
 Se implemento React, TypeScript, entre otros. La idea principal de mostrar una web donde puede encontrar un listado con los mejores descuentos en videos juegos y que ser re-direccionados a la pagina de Steam para su posible compra.
