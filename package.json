@@ -1,6 +1,7 @@
 {
   "name": "gamesale",
   "private": true,
+  "homepage": "https://sebastiancharris21.github.io/GameSale/build",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
